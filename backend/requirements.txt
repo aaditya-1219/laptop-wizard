@@ -1,0 +1,13 @@
+torch
+transformers
+faiss
+faiss-cpu
+google-generativeai
+langchain_community
+python-dotenv
+langchain
+PyPDF2
+chromadb
+langchain_google_genai
+transformers
+torch
