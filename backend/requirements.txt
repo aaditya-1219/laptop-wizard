@@ -1,6 +1,5 @@
 torch
 transformers
-faiss
 faiss-cpu
 google-generativeai
 langchain_community
